@@ -1,8 +1,7 @@
 package com.example.hm2;
 
 import android.os.Bundle;
-import android.util.Log;
-import android.widget.Button;
+
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 import android.content.Intent;
@@ -62,4 +61,3 @@ public class VoiceRecognition extends AppCompatActivity {
     }
 
 }
-
