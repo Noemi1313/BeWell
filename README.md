@@ -15,5 +15,7 @@ The app contains four main features:
 
 These features were implemented so the user can understand how they are feeling and help them realize when they need to seek help.
 
+Video: https://youtu.be/3z-rMBlvsmk
+
 ![Copia de Be better (1)](https://user-images.githubusercontent.com/72261496/131258530-4b73f3f0-2038-48fd-bb3a-e8f6ee9b514d.png)
 
