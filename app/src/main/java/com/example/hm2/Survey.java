@@ -100,13 +100,13 @@ public class Survey extends AppCompatActivity implements View.OnClickListener{
         alertDialogBuilder
                 .setMessage("End of survey")
                 .setCancelable(false)
-                .setPositiveButton("New entry", new DialogInterface.OnClickListener() {
+                .setPositiveButton("Save entry", new DialogInterface.OnClickListener() {
                     @Override
                     public void onClick(DialogInterface dialog, int which) {
-                        startActivity(new Intent(getApplicationContext(), MainActivity.class));
+                        startActivity(new Intent(getApplicationContext(), Results.class));
                     }
                 })
-                .setNegativeButton("Exit", new DialogInterface.OnClickListener() {
+                .setNegativeButton("Return", new DialogInterface.OnClickListener() {
                     @Override
                     public void onClick(DialogInterface dialog, int which) {
                         System.exit(0);
