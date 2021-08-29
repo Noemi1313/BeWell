@@ -3,6 +3,25 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/HM2/app/src/main/res/layout/activity_event_edit.xml" value="0.25416666666666665" />
+        <entry key="..\:/HM2/app/src/main/res/layout/activity_log_in.xml" value="0.25416666666666665" />
+        <entry key="..\:/HM2/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/HM2/app/src/main/res/layout/activity_personal_info.xml" value="0.25416666666666665" />
+        <entry key="..\:/HM2/app/src/main/res/layout/activity_prueba_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/HM2/app/src/main/res/layout/activity_register.xml" value="0.25416666666666665" />
+        <entry key="..\:/HM2/app/src/main/res/layout/activity_resources.xml" value="0.25416666666666665" />
+        <entry key="..\:/HM2/app/src/main/res/layout/activity_results.xml" value="0.25416666666666665" />
+        <entry key="..\:/HM2/app/src/main/res/layout/activity_survey.xml" value="0.25416666666666665" />
+        <entry key="..\:/HM2/app/src/main/res/layout/activity_voice_recognition.xml" value="0.25416666666666665" />
+        <entry key="..\:/HM2/app/src/main/res/layout/activity_week_view.xml" value="0.25416666666666665" />
+        <entry key="..\:/HM2/app/src/main/res/layout/calendar_cell.xml" value="0.25416666666666665" />
+        <entry key="..\:/HM2/app/src/main/res/layout/calendario.xml" value="0.25416666666666665" />
+        <entry key="..\:/HM2/app/src/main/res/layout/event_cell.xml" value="0.25416666666666665" />
+        <entry key="..\:/HM2/app/src/main/res/layout/fragment_dashboard.xml" value="0.25416666666666665" />
+        <entry key="..\:/HM2/app/src/main/res/layout/fragment_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/HM2/app/src/main/res/layout/fragment_notifications.xml" value="0.25416666666666665" />
+        <entry key="..\:/HM2/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/HM2/app/src/main/res/menu/navigation_menu.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/sandr/AndroidStudioProjects/HM2/app/src/main/res/drawable/button_log_in.xml" value="0.18333333333333332" />
         <entry key="..\:/Users/sandr/AndroidStudioProjects/HM2/app/src/main/res/drawable/header_background.xml" value="0.15052083333333333" />
         <entry key="..\:/Users/sandr/AndroidStudioProjects/HM2/app/src/main/res/drawable/search_icon_background.xml" value="0.14583333333333334" />

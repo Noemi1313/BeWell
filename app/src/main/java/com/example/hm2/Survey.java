@@ -42,7 +42,6 @@ public class Survey extends AppCompatActivity implements View.OnClickListener{
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_survey);
 
-
         random = new Random();// Funcion para generar un random
 
         // Seccion donde se declaran las variables de los botones para que funcion al presionarlos
@@ -57,7 +56,7 @@ public class Survey extends AppCompatActivity implements View.OnClickListener{
 
         tv_question = (TextView) findViewById(R.id.tv_question);
 
-        //NextQuestion(random.nextInt(questionLength));
+        NextQuestion(random.nextInt(questionLength));
 
     }
 
