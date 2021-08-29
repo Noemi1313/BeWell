@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/sandr/AndroidStudioProjects/HM2/app/src/main/res/drawable/button_log_in.xml" value="0.18333333333333332" />
+        <entry key="..\:/Users/sandr/AndroidStudioProjects/HM2/app/src/main/res/drawable/header_background.xml" value="0.15052083333333333" />
+        <entry key="..\:/Users/sandr/AndroidStudioProjects/HM2/app/src/main/res/drawable/search_icon_background.xml" value="0.14583333333333334" />
+        <entry key="..\:/Users/sandr/AndroidStudioProjects/HM2/app/src/main/res/drawable/trending_background.xml" value="0.1" />
+        <entry key="..\:/Users/sandr/AndroidStudioProjects/HM2/app/src/main/res/drawable/white_rectangle_background.xml" value="0.14444444444444443" />
+        <entry key="..\:/Users/sandr/AndroidStudioProjects/HM2/app/src/main/res/layout/activity_event_edit.xml" value="0.2" />
+        <entry key="..\:/Users/sandr/AndroidStudioProjects/HM2/app/src/main/res/layout/activity_log_in.xml" value="0.264" />
+        <entry key="..\:/Users/sandr/AndroidStudioProjects/HM2/app/src/main/res/layout/activity_main.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/sandr/AndroidStudioProjects/HM2/app/src/main/res/layout/activity_personal_info.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/sandr/AndroidStudioProjects/HM2/app/src/main/res/layout/activity_prueba_main.xml" value="0.264" />
+        <entry key="..\:/Users/sandr/AndroidStudioProjects/HM2/app/src/main/res/layout/activity_question.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/sandr/AndroidStudioProjects/HM2/app/src/main/res/layout/activity_register.xml" value="0.264" />
+        <entry key="..\:/Users/sandr/AndroidStudioProjects/HM2/app/src/main/res/layout/activity_resources.xml" value="0.1" />
+        <entry key="..\:/Users/sandr/AndroidStudioProjects/HM2/app/src/main/res/layout/activity_results.xml" value="0.176" />
+        <entry key="..\:/Users/sandr/AndroidStudioProjects/HM2/app/src/main/res/layout/activity_survey.xml" value="0.2" />
+        <entry key="..\:/Users/sandr/AndroidStudioProjects/HM2/app/src/main/res/layout/activity_voice_recognition.xml" value="0.13489583333333333" />
+        <entry key="..\:/Users/sandr/AndroidStudioProjects/HM2/app/src/main/res/layout/activity_week_view.xml" value="0.1" />
+        <entry key="..\:/Users/sandr/AndroidStudioProjects/HM2/app/src/main/res/layout/calendario.xml" value="0.13489583333333333" />
+        <entry key="..\:/Users/sandr/AndroidStudioProjects/HM2/app/src/main/res/layout/fragment_dashboard.xml" value="0.13489583333333333" />
+        <entry key="..\:/Users/sandr/AndroidStudioProjects/HM2/app/src/main/res/layout/fragment_home.xml" value="0.13489583333333333" />
+        <entry key="..\:/Users/sandr/AndroidStudioProjects/HM2/app/src/main/res/layout/fragment_notifications.xml" value="0.13489583333333333" />
+        <entry key="..\:/Users/sandr/AndroidStudioProjects/HM2/app/src/main/res/menu/navigation_menu.xml" value="0.16" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.264" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

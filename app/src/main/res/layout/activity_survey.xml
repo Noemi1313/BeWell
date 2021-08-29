@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--> Aqui se cambio lo que iba antes de xmlns por RelativeLayout <!-->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingTop="?attr/actionBarSize">
+
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/nav_view"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="0dp"
+        android:layout_marginEnd="0dp"
+        android:background="?android:attr/windowBackground"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:menu="@menu/bottom_nav_menu" />
+
+    <!--> Aqui se encuentra el layout de los botones para el survey
+      En cada pregunta se usa la misma pagina pero con diferentes datos <!-->
+
+    <fragment
+        android:id="@+id/nav_host_fragment_activity_main"
+        android:name="androidx.navigation.fragment.NavHostFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:defaultNavHost="true"
+        app:layout_constraintBottom_toTopOf="@id/nav_view"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:navGraph="@navigation/mobile_navigation" />
+
+    <Button
+        android:id="@+id/btn_one"
+        android:layout_width="381dp"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/btn_two"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="13dp"
+        android:layout_marginBottom="50dp"
+        android:background="@drawable/trending_background"
+        android:text="Button" />
+
+    <Button
+        android:id="@+id/btn_two"
+        android:layout_width="383dp"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/btn_three"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="11dp"
+        android:layout_marginBottom="50dp"
+        android:background="@drawable/trending_background"
+        android:text="Button" />
+
+    <Button
+        android:id="@+id/btn_four"
+        android:layout_width="379dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="49dp"
+        android:background="@drawable/trending_background"
+        android:text="Button" />
+
+    <Button
+        android:id="@+id/btn_three"
+        android:layout_width="381dp"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/btn_four"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="12dp"
+        android:layout_marginBottom="51dp"
+        android:background="@drawable/trending_background"
+        android:text="Button" />
+
+    <TextView
+        android:id="@+id/tv_question"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/btn_one"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:gravity="center_horizontal"
+        android:paddingTop="20sp"
+        android:text="Question"
+        android:textSize="25sp" />
+
+</RelativeLayout>
