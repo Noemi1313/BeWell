@@ -14,3 +14,5 @@ The app contains four main features:
 4. *Voice Recognition.* The app listens for certain trigger words related to mental health so when a trigger word is heard, the app can try and help you through these tough times.
 
 These features were implemented so the user can understand how they are feeling and help them realize when they need to seek help.
+
+![Be_well](https://user-images.githubusercontent.com/72261496/131258469-963a696b-b0c6-495d-933e-e8573c67c25c.png)
